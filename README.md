@@ -17,3 +17,7 @@ You will create your own static website hosted on github today, so by the time y
   7. Next, run `git push personal master`
   8. Now, you should be able to visit your personal site at <your username>.github.io
   9. For submission, make a pull request from the fork (make sure you push changes to origin first!).
+
+# -.github.io
+Bootstrap website
+
